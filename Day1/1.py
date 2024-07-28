@@ -9,13 +9,13 @@ print(myFvrt)
 # Camel Case
 # Each word, except the first, starts with a capital letter
 
-myFvrt= "penguin love"
+myFvrt= "penguin"
 print(myFvrt)
 
 # Pascal Case
 # Each word starts with a capital letter
 
-MyFvrt="penguins love"
+MyFvrt="penguins"
 print(MyFvrt)
 
 # Snake Case
