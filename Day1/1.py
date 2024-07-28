@@ -3,7 +3,7 @@ print("hlw")
 
 
 # variables 
-myFvrt= "penguin love"
+myFvrt= "penguin"
 print(myFvrt)
 
 # Camel Case
